@@ -1,9 +1,11 @@
 # meshctl
-🔥 Meshctl is a very basic CLI app that donot do nothing just for now it creates a card, It is written in Go with Cobra and Viper🐹
+🔥 Meshctl is a very basic CLI app that does nothing. For now it just creates a card. 
 
-### Usage :
+It is written in Go with Cobra and Viper🐹
 
-It's very easy!
+## Usage :
+
+It's very easy to use!
 
 ```
 $ meshctl create card -h
