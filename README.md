@@ -3,7 +3,7 @@
 
 It is written in Go with Cobra and Viper🐹
 
-### Usage :
+## Usage :
 
 It's very easy to use!
 
